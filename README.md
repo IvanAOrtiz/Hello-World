@@ -73,7 +73,7 @@ std::string Episodio::str(){
 }
 ```````
 
-![alt text](image.jpg)
+![alt text](foto.jpg)
 
 
 
