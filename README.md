@@ -73,7 +73,7 @@ std::string Episodio::str(){
 }
 ```````
 
-![alt text](foto.jpeg)
+![Un estudiante](foto.jpeg)
 
 
 
@@ -92,7 +92,7 @@ std::string Episodio::str(){
 ```
 ---
 
-[Referencia](https://www.youtube.com
+[Esto no es una pagina web](https://www.youtube.com
 Hola mucho gusto . [^1]
 
 [^1]: Esta es una nota de pie.
@@ -100,7 +100,7 @@ Hola mucho gusto . [^1]
 Anonadado
 : Dícese de un sujeto que se encuentra en total asombro 
 
-~~Dios no existe~~.
+~~Dios si existe~~.
 
 - [x] Write the press release
 - [ ] Update the website
